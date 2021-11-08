@@ -9,7 +9,9 @@ https://docs.djangoproject.com/en/2.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.2/ref/settings/
 
-Token: 16b160a0a0533f102114e114464ba8b6bade9125
+Token kevin: 16b160a0a0533f102114e114464ba8b6bade9125
+----------------------------------------------------------
+Token kevin2: 873f5c6d676b50638bf22219d70f763a6d08d894
 
 """
 
