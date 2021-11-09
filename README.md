@@ -5,5 +5,10 @@
   <p> <strong> O que já foi adicionado a API 3.0 </<strong> </p>
   <li>Implementando Token na API</li>
   <li>Adicionando Permissões de diferentes usuários</li>
+  <li>Limitando o número de requisições com Throttling</li>
+  <li>Customizando a validação de dados</li>
+  <li>Customizando a serialização dos dados (Avg)</li>
+  <hr>
+  <p>Versão 3.0 Finalizada</p>
 </body>
 
