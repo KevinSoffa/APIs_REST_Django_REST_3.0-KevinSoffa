@@ -23,6 +23,6 @@
     <li> API Views para o método HTPP GET </li>
     <li> API Views para o método HTPP POST </li>
   <hr>
-  <p>Versão 3.0 Finalizada &#x2705</p>
+  <p>Versão 3.0 Finalizada &#x2714</p>
 </body>
 
