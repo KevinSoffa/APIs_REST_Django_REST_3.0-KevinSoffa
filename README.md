@@ -20,8 +20,8 @@
   <h4>API Versão 1.0 &#x2705</h4>
     <p>Funções</p>
     <li> Model Serializers </li>
-    <li> API Views para o método HTPP GET </li>
-    <li> API Views para o método HTPP POST </li>
+    <li> API Views para o método HTTP GET </li>
+    <li> API Views para o método HTTP POST </li>
   <hr>
   <p>Versão 3.0 Finalizada &#x2714</p>
 </body>
